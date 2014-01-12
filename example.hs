@@ -1,4 +1,4 @@
-import Global
+import Data.Unsafe.Global
 
 myGlobalVar = newGlobal 2
 

@@ -1,4 +1,4 @@
-module Global (
+module Data.Unsafe.Global (
  newGlobal
 ,module Data.IORef
 ) where
