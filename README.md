@@ -1,2 +1,5 @@
-globals
+global
 =======
+
+global variables
+
